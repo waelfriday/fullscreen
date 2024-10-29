@@ -1,2 +1,2 @@
 # fullscreen
-https://waelfriday.github.io/fullscreen/
+https://coderwael.github.io/fullscreen/
